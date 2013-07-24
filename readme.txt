@@ -14,7 +14,7 @@ Import CSV products into Jigoshop.
 
 Import Products into your Jigoshop store with the Jigoshop CSV Importer. CSV Importer lets you import all types of products, even product variations!
 =  =
-= Jigoshop CSV Importer =
+### Jigoshop CSV Importer ###
 
 * A simple, user friendly CSV product importer for Jigoshop.
 * Import hundreds or thousands of products at once. (The only limit is your patience!)
