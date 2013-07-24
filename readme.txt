@@ -1,7 +1,7 @@
 === Jigoshop CSV Importer ===
 Contributors: mag_oberon
 Donate link: http://bloggerhelp24.blogspot.com/p/blog-page_6415.html
-Tags: jigoshop, jigoshop csv, jigoshop csv import, csv, import, plugin 
+Tags: jigoshop, jigoshop csv, jigoshop csv import, csv, import, plugin, csv import, products, shop
 Requires at least: 2.8+
 Tested up to: 3.5.2
 Stable tag:trunk
