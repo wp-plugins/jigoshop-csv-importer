@@ -4,7 +4,7 @@ Plugin Name: Jigoshop CSV Importer
 Description: CSV Importer for Jigoshop
 Version: 1.0
 Author: promag
-Author URI: http://bloggerhelp24.blogspot.com/
+Author URI: http://freebloggingtricks.com/
 License: GPL
 parent: jigoshop
 */
