@@ -318,12 +318,21 @@ for($i=0;$i<count($prod_cats);++$i)
     }
 }
 ?>
-<h3 style="text-align: center;">See More From Us!</h3>
-<h3 style="text-align: center;"><a href="http://wordpress.org/plugins/facebooktwittergoogle-pluslinkedinbuffer-share-buttons/" target="_blank"><strong></strong> <strong>Facebook,Twitter,Google Plus, LinkedIn, Buffer Share Buttons</strong></a></h3>
-<div id="plugin-title" style="text-align: left;">
-<h3 itemprop="name" style="text-align: center;"><a href="http://wordpress.org/plugins/simple-woocommerce-csv-loader/" target="_blank"><strong>Simple Woocommerce CSV Loader</strong></a></h3>
-</div>
+
 <div class="wrap">
+	<div style="width: 200px; right: 0; float: right; position: fixed; margin: 0 15px 20px 0; background: #fff; border: 1px solid #e9e9e9; padding: 5px 5px 5px 5px; color: #008000; font-size: 11px;">
+<h3 style="margin: 0 0 10px 0; border-bottom: 1px dashed #008000;">More Free Plugins:</h3>
+<ul>
+	<li><a href="http://freebloggingtricks.com/wp-slick-tab/" target="_blank">WP Slick Tab</a></li>
+	<li><a href="http://freebloggingtricks.com/really-simple-guest-post-plugin/" target="_blank">Really Simple Guest Post Plugin</a></li>
+	<li><a href="http://freebloggingtricks.com/facebooktwittergoogle-plus-linkedin-buffer-share-buttons-wordpress/" target="_blank">WordPress Social Share Plugin</a></li>
+	<li><a href="http://freebloggingtricks.com/import-woocommerce-csv-products-file/" target="_blank">Simple Woocommerce CSV Loader</a></li>
+	<li><a href="http://freebloggingtricks.com/hide-comment-author-link/">Hide Comment Author Link</a></li>
+</ul>
+<h3 style="margin: 0 0 10px 0; border-bottom: 1px dashed #008000;">Check Our Main Site:</h3>
+Check <a href="http://freebloggingtricks.com/">FreeBloggingTricks</a> for WordPress tutorials. Don't forget to follow us on <a href="http://www.twitter.com/freebtricks">Twitter</a>, <a href="http://facebook.com/freebloggingtricks">Facebook</a> and <a href="https://plus.google.com/109526129815752833990/">Google+</a>.
+
+</div>    
 <h1><?php echo __( 'Jigoshop CSV Importer', 'wc_csvl' );?></h1>
 </color>
 <ul class="subsubsub">
