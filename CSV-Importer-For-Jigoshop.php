@@ -3,7 +3,7 @@
 Plugin Name: Jigoshop CSV Importer
 Description: CSV Importer for Jigoshop
 Version: 1.1
-Author: promag
+Author: Ataul Ghani
 Author URI: http://freebloggingtricks.com/
 License: GPL
 parent: jigoshop
@@ -11,7 +11,6 @@ parent: jigoshop
 
 /**
  * This file is part of jigoshop-csv-importer.
- * 
  * Simple woocommerce CSV Importer is Pro software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Pro Software Foundation, either version 3 of the License, or
