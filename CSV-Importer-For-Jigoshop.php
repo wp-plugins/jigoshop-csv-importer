@@ -43,7 +43,7 @@ class CSVImporterForJigoshop {
         
 if (function_exists('add_menu_page'))
 {
-add_menu_page('Jigoshop CSV Importer', 'Jigoshop CSV Importer', 'administrator', dirname( __FILE__ ) . '/admin/Jigoshop-CSV-Importer.php');
+add_menu_page('CSV Importer', 'CSV Importer', 'administrator', dirname( __FILE__ ) . '/admin/Jigoshop-CSV-Importer.php');
 }
     }
 }
