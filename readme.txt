@@ -42,7 +42,7 @@ An answer to that question.
 
 == Screenshots ==
 
-1. 
+1.admin area
 
 == Changelog ==
 
