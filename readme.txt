@@ -1,6 +1,6 @@
 === Jigoshop CSV Importer ===
 Contributors: mag_oberon
-Donate link: http://freebloggingtricks.com/
+Donate link: http://www.wpthorp.com/
 Tags: jigoshop, jigoshop csv, jigoshop csv import, csv, import, plugin, csv import, products, shop
 Requires at least: 2.8+
 Tested up to: 3.5.2
@@ -14,7 +14,7 @@ Import CSV products into Jigoshop.
 
 Import Products into your Jigoshop store with the Jigoshop CSV Importer. CSV Importer lets you import all types of products, even product variations!
 
-Support Blog: http://freebloggingtricks.com/import-csv-products-jigoshop/
+Support Blog: http://www.wpthorp.com/jigoshop-csv-importer-plugin/
 
 <strong>Features Included:<strong>
 
